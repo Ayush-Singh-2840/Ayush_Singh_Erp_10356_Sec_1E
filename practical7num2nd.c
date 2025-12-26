@@ -1,3 +1,5 @@
+// Name - Ayush Singh 
+// ERP - 10356 
 #include<stdio.h>
 int main(){
     //Practical 7 : Q.2.Hourglass of length 2n-1//
@@ -23,3 +25,14 @@ int main(){
     }
     return 0;
 }
+
+/*5
+*********
+ *******
+  *****
+   ***
+    *
+   ***
+  *****
+ *******
+**********/

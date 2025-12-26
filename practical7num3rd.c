@@ -1,3 +1,5 @@
+// Name - Ayush Singh 
+// ERP - 10356 
 #include<stdio.h>
 int main(){
     //Practical 7: Q.3.pattern//
@@ -14,3 +16,10 @@ int main(){
     }
     return 0;
 }
+/* 
+A
+AB
+ABC
+ABCD
+ABCDE
+ABCDEF*/

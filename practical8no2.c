@@ -1,3 +1,5 @@
+// Name - Ayush Singh 
+// ERP - 10356 
 #include<stdio.h>
 //Practical 8:Q.2. Swap 2 number using pass by reference//
 void swap(int *a,int *b){
@@ -11,3 +13,4 @@ int main(){
     printf("after swapping a=%d and b=%d",a,b);
     return 0;
 }
+/*after swapping a=3 and b=5*/

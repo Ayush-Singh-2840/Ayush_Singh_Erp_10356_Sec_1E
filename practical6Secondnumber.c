@@ -1,3 +1,5 @@
+// Name - Ayush Singh 
+// ERP - 10356 
 #include<stdio.h>
 int main(){
     //Practical 6 : Q.2 sum of even number using continue.//
@@ -13,3 +15,5 @@ int main(){
     return 0;
 
 }
+/*enter a number:6
+sum of even number from 1 to 6 is 12*/

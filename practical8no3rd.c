@@ -1,3 +1,5 @@
+// Name - Ayush Singh 
+// ERP - 10356 
 #include<stdio.h>
 //Practical 8:Q.3. write a function to print a right angle triagle of stars of height n.//
 int star(int n){
@@ -14,3 +16,10 @@ int main(){
     star(n);
     return 0;
 }
+/*6
+*
+**
+***
+****
+*****
+*******/
