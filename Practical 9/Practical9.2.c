@@ -1,4 +1,6 @@
 #include <stdio.h>
+//Ayush Singh ERP 10356
+//Q.1 Max and min element of an array
 
 int main() {
     int n, i;
@@ -28,3 +30,9 @@ int main() {
 
     return 0;
 }
+/*
+Enter number of elements: 5
+Enter elements:
+1 2 3 4 5 
+Maximum element = 5
+Minimum element = 1.   */

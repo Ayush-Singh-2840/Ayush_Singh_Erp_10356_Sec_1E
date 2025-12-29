@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+//Ayush Singh ERP 10356
+//Q.2 Sum of diagnol elements of 2d array
 int main() {
     int r, c, i, j;
     int arr[10][10];
@@ -31,3 +32,9 @@ int main() {
 
     return 0;
 }
+/*
+Enter order of matrix: 3 3
+Enter elements:
+1 2 3 4 5 6 7 8 9 
+Sum of diagonal elements = 15
+*/

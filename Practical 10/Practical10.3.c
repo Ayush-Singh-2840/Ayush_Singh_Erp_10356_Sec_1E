@@ -1,4 +1,6 @@
 #include <stdio.h>
+//Ayush Singh ERP 10356
+// Row wise sum of 2d array
 
 int main() {
     int r, c, i, j;
@@ -25,3 +27,12 @@ int main() {
 
     return 0;
 }
+/*
+Enter number of rows and columns:  2 2
+Enter elements of the 2D array:
+1 2 3 4 
+
+Row-wise sum:
+Sum of row 1 = 3
+Sum of row 2 = 7
+*/

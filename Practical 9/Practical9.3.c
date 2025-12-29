@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+//Ayush Singh ERP 10356
+//Q.3 Sum of even elements in an array
 int main() {
     int n, i;
     int arr[100];
@@ -23,3 +24,9 @@ int main() {
 
     return 0;
 }
+/*
+Enter number of elements: 5
+Enter elements:
+1 2 3 4 5 
+Sum of even elements = 6. 
+*/

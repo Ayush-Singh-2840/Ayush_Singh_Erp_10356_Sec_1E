@@ -1,4 +1,6 @@
 #include <stdio.h>
+//Ayush Singh ERP 10356
+//Max and min element in 2D array
 
 int main() {
     int n, i, j;
@@ -23,3 +25,10 @@ int main() {
 
     return 0;
 }
+
+/* 
+Enter order of matrix: 2 2
+Enter elements:
+1 2 3 4
+Sum of diagonal elements = 5 
+*/
